@@ -35,19 +35,29 @@
   <section class="experience">
     <h2>Experience</h2>
     <p><strong>Skytech Solution> — 1 Year</p>
-    <p><strong>Client Service Executive</strong> — </p>
+    <p><strong>Client Service Executive</strong>  </p>
     <p><strong>WEECOMMUNICATION> — 11 Months</p>
-    <p><strong>Social Media Manager and Client Service</strong> — </p>
+    <p><strong>Social Media Manager and Client Service</strong>  </p>
+    <p><strong>ADT Solar> — 1.6 Years</p>
+    <p><strong>Client Service and QA</strong>  </p>
+    <p><strong>WEECOMMUNICATION> — 11 Months</p>
+    <p><strong>Social Media Manager and Client Service</strong>  </p>
+    <p><strong>DigiFea> — 1.2 Years</p>
+    <p><strong>Campaign Cordinator</strong>  </p>
+    <p><strong>I-Venture & Channel-i> — 2.4 Years</p>
+    <p><strong>Team Leader of Operation and Business Development Manager</strong>  </p>
+    <p><strong>Magpie Nest Group> — 4 Months</p>
+    <p><strong>Senior Executive</strong>  </p>
     <p>
       Managed US-based clients, coordinated service requests,
-      followed up with vendors, and ensured timely issue resolution.
+      followed up with vendors, team mnagement and ensured timely issue resolution.
     </p>
   </section>
 
   <section class="contact">
     <h2>Contact</h2>
-    <p>Email: your@email.com</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>Email: rezwanahsan008@gmail.com</p>
+    <p>LinkedIn: https://www.linkedin.com/in/abu-ahsan-a02261176/</p>
     <p>GitHub: github.com/yourusername</p>
   </section>
 

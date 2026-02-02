@@ -67,3 +67,43 @@
 
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: #1f2933;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section {
+  background: #fff;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 800px;
+  border-radius: 6px;
+}
+
+h2 {
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #1f2933;
+  color: #fff;
+  margin-top: 30px;
+}

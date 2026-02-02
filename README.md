@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rezwan Ahsan | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Rezwan Ahsan</h1>
+    <p>Client Service | Account Management | US Operations</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I am a Client Service professional with experience working with US-based
+      clients. I specialize in client communication, vendor coordination,
+      reporting, and meeting tight deadlines.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Client & Vendor Communication</li>
+      <li>Account & Relationship Management</li>
+      <li>Reporting & Documentation</li>
+      <li>MS Excel & PowerPoint</li>
+    </ul>
+  </section>
+
+  <section class="experience">
+    <h2>Experience</h2>
+    <p><strong>Skytech Solution> — 1 Year</p>
+    <p><strong>Client Service Executive</strong> — </p>
+    <p><strong>WEECOMMUNICATION> — 11 Months</p>
+    <p><strong>Social Media Manager and Client Service</strong> — </p>
+    <p>
+      Managed US-based clients, coordinated service requests,
+      followed up with vendors, and ensured timely issue resolution.
+    </p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>GitHub: github.com/yourusername</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Rezwan Ahsan</p>
+  </footer>
+
+</body>
+</html>
